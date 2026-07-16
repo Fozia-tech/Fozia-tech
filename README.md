@@ -92,13 +92,6 @@ Content-based recommendation engine built on movie metadata using NLP and cosine
 
 ---
 
-### 🧹 Data Cleaning & Preprocessing — Titanic Dataset &nbsp;·&nbsp; [Code](https://github.com/Fozia-tech/Task1-Data-Preprocessing)
-End-to-end data preprocessing pipeline on the Titanic dataset — handling missing values, encoding categorical variables, standardizing features, and visualizing and removing outliers.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
-
----
-
 ## Education
 
 | Degree | Institution | Period |
