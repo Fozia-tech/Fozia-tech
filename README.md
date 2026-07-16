@@ -15,7 +15,7 @@
 - 🔬 B.Sc. (Hons.) Chemistry graduate with a Scholarship Position Holder achievement
 - 💡 Passionate about building predictive models, extracting insights from data, and deploying ML applications
 - 🛠️ Skilled in **Python, SQL, ML/EDA workflows, and dashboarding with Power BI & Streamlit**
-- 📫 Reach me at **work.fozia.ai@gmail.com**
+- 📫 Reach me at **fozia030802@gmail.com**
 
 ---
 
@@ -71,8 +71,8 @@ A content-based recommendation system using movie metadata, NLP, and cosine simi
 
 | Degree | Institute | Duration | Score |
 |---|---|---|---|
-| M.Sc. Artificial Intelligence & Machine Learning | Jamia Millia Islamia | 2025 – 2027 | SGPA: 7.66 |
-| B.Sc. (Hons.) Chemistry | Jamia Millia Islamia | 2020 – 2023 | CGPA: 9.04 |
+| M.Sc. Artificial Intelligence & Machine Learning | Jamia Millia Islamia | 2025 – 2027 | 
+| B.Sc. (Hons.) Chemistry | Jamia Millia Islamia | 2020 – 2023 |
 
 **Relevant Coursework:** Machine Learning • Deep Learning • Data Mining • Artificial Intelligence • Database Management Systems • Data Structures • Statistics • Natural Language Processing • Data Visualization
 
