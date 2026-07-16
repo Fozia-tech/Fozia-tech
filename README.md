@@ -133,17 +133,6 @@
 
 ---
 
-### 🧹 Data Cleaning & Preprocessing — Titanic &nbsp;&nbsp; [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Fozia-tech/Task1-Data-Preprocessing)
-
-> Complete preprocessing pipeline — **missing value handling**, categorical encoding, feature scaling, outlier detection and removal on the Titanic dataset.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
----
-
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
